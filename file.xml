@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type=«text/xsl» href=«style.xslt»?>
+<document>
+ <header>Это заголовок Xml-документа</header>
+ <items>
+  <item id="1">
+   <name>BubbleGun</name>
+   <description>
+   Здесь содержится информация xml-файла.
+   </description>
+  </item>
+  <item id="2">
+   <name>Deeprector</name>
+   <description>
+    Здесь можно передохнуть возле костра.
+   </description>
+  </item>
+ </items>
+</document>
